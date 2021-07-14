@@ -1,0 +1,90 @@
+{
+    "catalog": {
+        "filter": {
+            "group": {
+                "prototype": {
+                    "value": [],
+                    "type": "select"
+                },
+                "label": {
+                    "id": "Filter Kelompok",
+                    "eng": "Filter by Group"
+                }
+            },
+            "status": {
+                "prototype": {
+                    "value": "",
+                    "type": "select" 
+                },
+                "label": {
+                    "id": "Filter Status",
+                    "eng": "Filter by Status"
+                },
+                "options": {
+                    "value": ["1", "0"],
+                    "label": {
+                        "1": {
+                            "id": "Aktif",
+                            "eng": "Active"
+                        },
+                        "0": {
+                            "id": "Nonaktif",
+                            "eng": "Nonactive"
+                        }
+                    }
+                }
+            },
+            "price": {
+                "prototype": {
+                    "value": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "type": "range-price" 
+                },
+                "label": {
+                    "id": "Filter Harga",
+                    "eng": "Filter by Price"
+                },
+                "options": {
+                    "label": {
+                        "start": {
+                            "id": "Harga Minimum",
+                            "eng": "Price Min"
+                        },
+                        "end": {
+                            "id": "Harga Maksimum",
+                            "eng": "Price Max"
+                        }
+                    }
+                }
+            }
+        },
+        "sort": {
+            "name-asc": {
+                "label": {
+                    "id": "Urutkan Nama A-Z",
+                    "eng": "Sort by Name A-Z"
+                }
+            },
+            "name-desc": {
+                "label": {
+                    "id": "Urutkan Nama Z-A",
+                    "eng": "Sort by Name Z-A"
+                }
+            },
+            "price-asc": {
+                "label": {
+                    "id": "Urutkan Harga Rendah - Tinggi",
+                    "eng": "Sort by Price Low - High"
+                }
+            },
+            "price-desc": {
+                "label": {
+                    "id": "Urutkan Harga Tinggi - Rendah",
+                    "eng": "Sort by Price High - Low"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "catalog": {
+        "0": {
+            "id": "Nonaktif",
+            "eng": "Deactive"
+        },
+        "1": {
+            "id": "Aktif",
+            "eng": "Active"
+        }
+    },
+    "varian": {
+        "0": {
+            "id": "Nonaktif",
+            "eng": "Deactive"
+        },
+        "1": {
+            "id": "Aktif",
+            "eng": "Active"
+        }
+    },
+    "addon": {
+        "inactive": {
+            "id": "Nonaktif",
+            "eng": "Deactive"
+        },
+        "active": {
+            "id": "Aktif",
+            "eng": "Active"
+        }
+    },
+    "sellable_stock": {
+        "manual": {
+            "id": "Terbatas",
+            "eng": "Limited"
+        },
+        "unlimited": {
+            "id": "Tak Terbatas",
+            "eng": "Unlimited"
+        }
+    },
+    "gallery": {
+        "global": {
+            "id": "Galeri Katalog",
+            "eng": "Catalog Gallery"
+        },
+        "varian": {
+            "id": "Galeri Varian",
+            "eng": "Variant Gallery"
+        }
+    }
+}

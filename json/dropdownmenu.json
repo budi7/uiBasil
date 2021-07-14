@@ -1,0 +1,144 @@
+{
+    "catalog": {
+        "indexTitle": {
+            "refresh": {
+                "id": "Muat Ulang",
+                "eng": "Refresh"
+            },
+            "edit": {
+                "id": "Ubah Katalog",
+                "eng": "Edit Catalog"
+            },
+            "activate": {
+                "id": "Aktifkan Katalog",
+                "eng": "Activated Catalog"
+            },
+            "deactivate": {
+                "id": "Nonaktifkan Katalog",
+                "eng": "Deactive Catalog"
+            },
+            "delete": {
+                "id": "Hapus Katalog",
+                "eng": "Delete Catalog"
+            },
+            "editprice": {
+                "id": "Ubah Harga Katalog",
+                "eng": "Edit Catalog Price"
+            },
+            "upprice": {
+                "id": "Naikkan Harga Katalog",
+                "eng": "Increase Catalog Price"
+            },
+            "downprice": {
+                "id": "Turunkan Harga Katalog",
+                "eng": "Lower Catalog Price"
+            },
+            "uppriceall": {
+                "id": "Naikkan Semua Harga Katalog",
+                "eng": "Increase All Catalog Price"
+            },
+            "downpriceall": {
+                "id": "Turunkan Semua Harga Katalog",
+                "eng": "Lower All Catalog Price"
+            }
+        },
+        "indexCatalog": {
+            "edit": {
+                "id": "Ubah",
+                "eng": "Edit"
+            },
+            "activate": {
+                "id": "Aktifkan",
+                "eng": "Activate"
+            },
+            "deactivate": {
+                "id": "Nonaktifkan",
+                "eng": "Deactivate"
+            },
+            "editprice": {
+                "id": "Ubah Harga",
+                "eng": "Edit Price"
+            },
+            "upprice": {
+                "id": "Naikkan Harga",
+                "eng": "Increase Price"
+            },
+            "downprice": {
+                "id": "Turunkan Harga",
+                "eng": "Lower Price"
+            },
+            "addvarian": {
+                "id": "Tambah Varian",
+                "eng": "Add Varian"
+            },
+            "addAddon": {
+                "id": "Tambah Tambahan",
+                "eng": "Add Addon"
+            },
+            "delete": {
+                "id": "Hapus",
+                "eng": "Delete"
+            }
+        },
+        "indexVarian": {
+            "edit": {
+                "id": "Ubah",
+                "eng": "Edit"
+            },
+            "activate": {
+                "id": "Aktifkan",
+                "eng": "Activate"
+            },
+            "deactivate": {
+                "id": "Nonaktifkan",
+                "eng": "Deactivate"
+            },
+            "editprice": {
+                "id": "Ubah Harga",
+                "eng": "Edit Price"
+            },
+            "upprice": {
+                "id": "Naikkan Harga",
+                "eng": "Increase Price"
+            },
+            "downprice": {
+                "id": "Turunkan Harga",
+                "eng": "Lower Price"
+            },
+            "delete": {
+                "id": "Hapus",
+                "eng": "Delete"
+            }
+        },
+        "indexAddon": {
+            "edit": {
+                "id": "Ubah",
+                "eng": "Edit"
+            },
+            "activate": {
+                "id": "Aktifkan",
+                "eng": "Activate"
+            },
+            "deactivate": {
+                "id": "Nonaktifkan",
+                "eng": "Deactivate"
+            },
+            "editprice": {
+                "id": "Ubah Harga",
+                "eng": "Edit Price"
+            },
+            "upprice": {
+                "id": "Naikkan Harga",
+                "eng": "Increase Price"
+            },
+            "downprice": {
+                "id": "Turunkan Harga",
+                "eng": "Lower Price"
+            },
+            "delete": {
+                "id": "Hapus",
+                "eng": "Delete"
+            }
+        }
+    }
+}

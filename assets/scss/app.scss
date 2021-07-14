@@ -1,0 +1,6 @@
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+@import 'node_modules/bootstrap-vue/src/index.scss';
+// plugins
+@import "vue-multiselect.scss";
+// custom css
+@import "app.compiled.scss";

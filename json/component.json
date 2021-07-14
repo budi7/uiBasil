@@ -1,0 +1,464 @@
+{
+  "varian": {
+    "section": {
+      "title": {
+        "id": "Varian",
+        "eng": "Variant"
+      },
+      "initialize": {
+        "varian": {
+          "title": {
+            "id": "Katalog punya varian?",
+            "eng": "Catalog has variant?"
+          },
+          "action": {
+            "true": {
+              "id": "Mempunyai varian",
+              "eng": "Have variant"
+            },
+            "false": {
+              "id": "Tidak mempunyai varian",
+              "eng": "Has no variant"
+            }
+          }
+        }
+      },
+      "status": {
+        "active": {
+          "id": "Aktif",
+          "eng": "Active"
+        },
+        "deactive": {
+          "id": "Nonaktif",
+          "eng": "Deactive"
+        }
+      },
+      "state": {
+        "nodata": {
+          "label": {
+            "id": "Tidak ada data",
+            "eng": "No Data"
+          },
+          "action": {
+            "id": "Tambah Varian?",
+            "eng": "Add Variant?"
+          }
+        },
+        "error": {
+          "label": {
+            "id": "Tidak dapat mengambil data",
+            "eng": "Unable fetching data"
+          },
+          "action": {
+            "id": "Coba Lagi",
+            "eng": "Retry"
+          }
+        }
+      },
+      "table": {
+        "code": {
+          "id": "Kode",
+          "eng": "Code"
+        },
+        "name": {
+          "id": "Nama",
+          "eng": "Name"
+        },
+        "status": {
+          "id": "Status",
+          "eng": "Status"
+        },
+        "sellable_stock": {
+          "id": "Jumlah yg bisa dijual",
+          "eng": "sellable stock"
+        },
+        "price": {
+          "id": "Harga",
+          "eng": "Price"
+        }
+      },
+      "action": {
+        "add": {
+          "id": "Tambah Varian",
+          "eng": "Add Variant"
+        },
+        "edit": {
+          "id": "Edit",
+          "eng": "Edit"
+        },
+        "delete": {
+          "id": "Hapus",
+          "eng": "Delete"
+        }
+      }
+    },
+    "create": {
+      "title": {
+        "id": "Tambah Varian",
+        "eng": "Add Variant"
+      },
+      "field": {
+        "code": {
+          "id": "Kode",
+          "eng": "Code"
+        },
+        "name": {
+          "id": "Nama",
+          "eng": "Name"
+        },
+        "status": {
+          "id": "Aktifkan",
+          "eng": "Activate"
+        },
+        "sellable_stock": {
+          "id": "Jumlah yg bisa dijual",
+          "eng": "sellable stock"
+        },
+        "set_sellable_stock": {
+          "id": "Set Jumlah",
+          "eng": "Set Amount"
+        },
+        "price": {
+          "id": "Nominal yg bisa dijual",
+          "eng": "Nominal can be sold"
+        }
+      },
+      "action": {
+        "check": {
+          "id": "Cek Kode",
+          "eng": "Check Code"
+        },
+        "save": {
+          "id": "Tambah Varian",
+          "eng": "Add Variant"
+        },
+        "cancel": {
+          "id": "Batal",
+          "eng": "Cancel"
+        }
+      }
+    },
+    "edit": {
+      "title": {
+        "id": "Ubah Varian",
+        "eng": "Edit Variant"
+      },
+      "field": {
+        "code": {
+          "id": "Kode",
+          "eng": "Code"
+        },
+        "name": {
+          "id": "Nama",
+          "eng": "Name"
+        },
+        "status": {
+          "id": "Aktifkan",
+          "eng": "Activate"
+        },
+        "sellable_stock": {
+          "id": "Jumlah yg bisa dijual",
+          "eng": "sellable stock"
+        },
+        "set_sellable_stock": {
+          "id": "Set Jumlah",
+          "eng": "Set Amount"
+        },
+        "price": {
+          "id": "Nominal yg bisa dijual",
+          "eng": "Nominal can be sold"
+        }
+      },
+      "action": {
+        "check": {
+          "id": "Cek Kode",
+          "eng": "Check Code"
+        },
+        "save": {
+          "id": "Tambah Varian",
+          "eng": "Add Variant"
+        },
+        "cancel": {
+          "id": "Batal",
+          "eng": "Cancel"
+        }
+      }
+    },
+    "delete": {
+      "title": {
+        "id": "Hapus Varian",
+        "eng": "Delete Variant"
+      },
+      "subtitle": {
+        "id": "Yakin ingin menghapus?",
+        "eng": "Are you sure to delete?"
+      },
+      "action": {
+        "delete": {
+          "id": "Hapus Varian",
+          "eng": "Delete Variant"
+        },
+        "cancel": {
+          "id": "Batal",
+          "eng": "Cancel"
+        }
+      }
+    }
+  },
+  "addon": {
+    "section": {
+      "title": {
+        "id": "Tambahan",
+        "eng": "addons"
+      },
+      "initialize": {
+        "addon": {
+          "title": {
+            "id": "Katalog punya tambahan?",
+            "eng": "Catalog has addon?"
+          },
+          "action": {
+            "true": {
+              "id": "Mempunyai tambahan",
+              "eng": "Have addon"
+            },
+            "false": {
+              "id": "Tidak mempunyai tambahan",
+              "eng": "Has no addon"
+            }
+          }
+        }
+      },
+      "state": {
+        "nodata": {
+          "label": {
+            "id": "Tidak ada data",
+            "eng": "No Data"
+          },
+          "action": {
+            "id": "Tambah Tambahan?",
+            "eng": "Add Addon?"
+          }
+        },
+        "error": {
+          "label": {
+            "id": "Tidak dapat mengambil data",
+            "eng": "Unable fetching data"
+          },
+          "action": {
+            "id": "Coba Lagi",
+            "eng": "Retry"
+          }
+        }
+      },
+      "table": {
+        "code": {
+          "id": "Kode",
+          "eng": "Code"
+        },
+        "name": {
+          "id": "Nama",
+          "eng": "Name"
+        },
+        "price": {
+          "id": "Harga",
+          "eng": "Price"
+        }
+      },
+      "action": {
+        "add": {
+          "id": "Tambah Tambahan",
+          "eng": "Add Addon"
+        },
+        "edit": {
+          "id": "Edit",
+          "eng": "Edit"
+        },
+        "delete": {
+          "id": "Hapus",
+          "eng": "Delete"
+        }
+      }
+    },
+    "create": {
+      "title": {
+        "id": "Tambah Tambahan",
+        "eng": "Add Addon"
+      },
+      "field": {
+        "catalog": {
+          "id": "Katalog",
+          "eng": "Catalog"
+        },
+        "price": {
+          "id": "Nominal yg bisa dijual",
+          "eng": "Nominal can be sold"
+        }
+      },
+      "action": {
+        "save": {
+          "id": "Tambah Tambahan",
+          "eng": "Add Addon"
+        },
+        "cancel": {
+          "id": "Batal",
+          "eng": "Cancel"
+        }
+      }
+    },
+    "delete": {
+      "title": {
+        "id": "Hapus Tambahan",
+        "eng": "Delete Addon"
+      },
+      "subtitle": {
+        "id": "Yakin ingin menghapus?",
+        "eng": "Are you sure to delete?"
+      },
+      "action": {
+        "delete": {
+          "id": "Hapus Tambahan",
+          "eng": "Delete Addon"
+        },
+        "cancel": {
+          "id": "Batal",
+          "eng": "Cancel"
+        }
+      }
+    }
+  },
+  "galleries": {
+    "section": {
+      "title": {
+        "id": "Galeri",
+        "eng": "Gallery"
+      },
+      "initialize": {
+        "galleries": {
+          "title": {
+            "id": "Katalog punya gambar?",
+            "eng": "Catalog has image?"
+          },
+          "action": {
+            "true": {
+              "id": "Mempunyai gambar",
+              "eng": "Have image"
+            },
+            "false": {
+              "id": "Tidak mempunyai gambar",
+              "eng": "Has no image"
+            }
+          }
+        },
+        "varian": {
+          "title": {
+            "id": "Gambar diatur di global atau di varian?",
+            "eng": "Image set in global or in variant?"
+          },
+          "action": {
+            "true": {
+              "id": "Global",
+              "eng": "Global"
+            },
+            "false": {
+              "id": "Varian",
+              "eng": "Variant"
+            }
+          }
+        }
+      },
+      "state": {
+        "nodata": {
+          "label": {
+            "id": "Tidak ada data",
+            "eng": "No Data"
+          },
+          "action": {
+            "id": "Tambah Gambar?",
+            "eng": "Add Image?"
+          }
+        },
+        "error": {
+          "label": {
+            "id": "Tidak dapat mengambil data",
+            "eng": "Unable fetching data"
+          },
+          "action": {
+            "id": "Coba Lagi",
+            "eng": "Retry"
+          }
+        }
+      },
+      "table": {
+        "varian": {
+          "id": "Varian",
+          "eng": "Variant"
+        },
+        "image": {
+          "id": "Gambar",
+          "eng": "Image"
+        },
+        "help": {
+          "id": "Maksimal 2 gambar di galeri varian",
+          "eng": "Maximum 2 images in the variant gallery"
+        }
+      },
+      "action": {
+        "add": {
+          "id": "Tambah Gambar",
+          "eng": "Add Image"
+        },
+        "delete": {
+          "id": "Hapus",
+          "eng": "Delete"
+        }
+      }
+    },
+    "create": {
+      "title": {
+        "id": "Tambah Gambar",
+        "eng": "Add Image"
+      },
+      "field": {
+        "title": {
+          "id": "Judul",
+          "eng": "Title"
+        },
+        "url": {
+          "id": "Link",
+          "eng": "Link"
+        }
+      },
+      "action": {
+        "save": {
+          "id": "Tambah Gambar",
+          "eng": "Add Image"
+        },
+        "cancel": {
+          "id": "Batal",
+          "eng": "Cancel"
+        }
+      }
+    },
+    "delete": {
+      "title": {
+        "id": "Hapus Gambar",
+        "eng": "Delete Image"
+      },
+      "subtitle": {
+        "id": "Yakin ingin menghapus?",
+        "eng": "Are you sure to delete?"
+      },
+      "action": {
+        "delete": {
+          "id": "Hapus Gambar",
+          "eng": "Delete Image"
+        },
+        "cancel": {
+          "id": "Batal",
+          "eng": "Cancel"
+        }
+      }
+    }
+  }
+}

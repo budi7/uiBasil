@@ -1,0 +1,78 @@
+{
+    "searchaction": {
+        "id": "Saya mau",
+        "eng": "I want to"
+    },
+    "empty": {
+        "id": "Tidak ada data",
+        "eng": "No data"
+    },
+    "error": {
+        "id": "Terjadi permasalahan",
+        "eng": "Something wrong"
+    },
+    "retry": {
+        "id": "Coba lagi",
+        "eng": "Retry"
+    },
+    "apply": {
+        "id": "Terapkan",
+        "eng": "Apply"
+    },
+    "cancel": {
+        "id": "Batal",
+        "eng": "Cancel"
+    },
+    "all": {
+        "id": "Semua",
+        "eng": "All"
+    },
+    "start": {
+        "id": "Mulai",
+        "eng": "From"
+    },
+    "end": {
+        "id": "Hingga",
+        "eng": "To"
+    },
+    "selected": {
+        "id": "Dipilih",
+        "eng": "Selected"
+    },
+    "page": {
+        "id": "Halaman",
+        "eng": "Page/s"
+    },
+    "data": {
+        "id": "Data",
+        "eng": "Data/s"
+    },
+    "confirmation": {
+        "id":"Apa Anda Yakin?",
+        "eng": "Are you sure?"
+    },
+    "yes": {
+        "id": "Ya",
+        "eng": "Yes"
+    },
+    "percent": {
+        "id": "Persen",
+        "eng": "Percent"
+    },
+    "nominal": {
+        "id": "Nominal",
+        "eng": "Nominal"
+    },
+    "manual": {
+        "id": "Terbatas",
+        "eng": "Limited"
+    },
+    "unlimited": {
+        "id": "Tak Terbatas",
+        "eng": "Unlimited"
+    },
+    "editall": {
+        "id": "Edit Semua Yang Dipilih",
+        "eng": "Edit All Selected"
+    }
+}

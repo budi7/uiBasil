@@ -1,0 +1,25 @@
+{
+    "sellable": {
+        "manual": {
+            "key": "manual",
+            "label": {
+                "id": "Jumlah",
+                "eng": "Quantity"
+            }
+        },
+        "unlimited": {
+            "key": "unlimited",
+            "label": {
+                "id": "Tak Terbatas",
+                "eng": "Unlimited"
+            }
+        },
+        "editall": {
+            "key": "editall",
+            "label": {
+                "id": "Edit Semua Yang Dipilih",
+                "eng": "Edit All Selected"
+            }
+        }
+    }
+}

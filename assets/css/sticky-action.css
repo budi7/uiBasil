@@ -1,0 +1,28 @@
+p.description {
+  font-size: 0.75rem;
+  color: #aab2bb;
+}
+
+p, h1, h2, h3, h4, h5, h6, label, td, tr, input {
+  color: #4a4545;
+}
+
+.form-check {
+  font-size: 0.8rem;
+  margin-bottom: 0;
+  padding-top: 0.2rem;
+}
+
+.body-center-content .content-menu-bottom {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: calc(calc(100% - 2.8rem) - 13rem);
+}
+
+.body-center-content .content-menu-bottom .content {
+  background-color: #fff;
+  height: auto;
+  border-radius: 0.5rem;
+}
+

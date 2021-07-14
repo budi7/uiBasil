@@ -1,0 +1,66 @@
+{
+    "id": 12,
+    "name": "Produk",
+    "status": "published",
+    "code": "code-",
+    "price": "12000",
+    "group": "group1",
+    "description": "some description here",
+    "sellable_stock": "manual",
+    "total_sellable_stock": 20,
+    "is_active": 1,
+    "galleries": [
+        {
+            "url": "https://img.freepik.com/free-photo/assorted-indian-recipes-food-various_79295-7226.jpg?size=626&ext=jpg",
+            "title": "galeri1"
+        }
+    ],
+    "varians": [
+        {
+            "code": "code-varian-",
+            "name": "Produk Varian ",
+            "extra_price": "2000",
+            "sellable_stock": "unlimited",
+            "status": "published",
+            "ovd_outlet": {
+                "exta_price": 20000
+            },
+            "galleries": [
+                {
+                    "url": "https://img.freepik.com/free-photo/assorted-indian-recipes-food-various_79295-7226.jpg?size=626&ext=jpg",
+                    "title": "galeri1"
+                }
+            ]
+        },
+        {
+            "code": "code-varian-",
+            "name": "Produk Varian ",
+            "extra_price": "2000",
+            "sellable_stock": "unlimited",
+            "status": "unpublished",
+            "ovd_outlet": {
+                "exta_price": 20000
+            },
+            "galleries": [
+                {
+                    "url": "https://img.freepik.com/free-photo/assorted-indian-recipes-food-various_79295-7226.jpg?size=626&ext=jpg",
+                    "title": "galeri1"
+                }
+            ]
+        }
+    ],
+    "addons": [{
+        "code": "code-addon-",
+        "name": "Produk Addon ",
+        "price": "20000",
+        "ovd_outlet": {
+            "price": 20000
+        }
+    }],
+    "ovd_outlet": {
+        "outlet": "",
+        "price": "",
+        "status": "",
+        "is_applied": true
+    }
+}

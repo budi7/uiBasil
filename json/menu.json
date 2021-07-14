@@ -1,0 +1,155 @@
+{
+  "menu_outlet": {
+      "label": {
+        "id": "Outlet",
+        "eng": "Outlet"
+      },
+      "menus": {}
+    },
+    "menu_product": {
+      "label": {
+        "id": "Produk",
+        "eng": "Product"
+      },
+      "menus": {
+        "catalog": {
+          "label": {
+              "id": "Katalog",
+              "eng": "Catalog"
+          },
+          "submenus": {
+            "catalog_view": {
+              "label": {
+                  "id": "Lihat Katalog",
+                  "eng": "View Catalog"
+              },
+              "url": "/dashboard/catalog"
+            },
+            "catalog_create": {
+              "label": {
+                  "id": "Tambah Katalog",
+                  "eng": "Add Catalog"
+              },
+              "url": "/dashboard/catalog/create"
+            },
+            "catalog_edit": {
+              "label": {
+                  "id": "Ubah Katalog",
+                  "eng": "Edit Catalog"
+              },
+              "url": "/dashboard/catalog/edit"
+            },
+            "catalog_deactivate": {
+              "label": {
+                  "id": "Nonaktifkan Katalog",
+                  "eng": "Deactivate Catalog"
+              },
+              "url": "/dashboard/catalog/deactive"
+            },
+            "catalog_activate": {
+              "label": {
+                  "id": "Aktifkan Katalog",
+                  "eng": "Activate Catalog"
+              },
+              "url": "/dashboard/catalog/active"
+            },
+            "catalog_delete": {
+              "label": {
+                  "id": "Hapus Katalog",
+                  "eng": "Delete Catalog"
+              },
+              "url": "/dashboard/catalog/delete"
+            }
+          }
+        },
+        "price": {
+          "label": {
+              "id": "Harga",
+              "eng": "Pricing"
+          },
+          "submenus": {
+            "edit_price": {
+              "label": {
+                "id": "Ubah Harga Katalog",
+                "eng": "Change Catalog Price"
+              },
+              "url": "/dashboard/catalog/editprice"
+            },
+            "up_price": {
+              "label": {
+                "id": "Naikkan Harga Katalog",
+                "eng": "Increase Catalog Price"
+              },
+              "url": "/dashboard/catalog/upprice"
+            },
+            "down_price": {
+              "label": {
+                "id": "Turunkan Harga Katalog",
+                "eng": "Lower Catalog Price"
+              },
+              "url": "/dashboard/catalog/downprice"
+            },
+            "up_price_all": {
+              "label": {
+                "id": "Naikkan Semua Harga Katalog",
+                "eng": "Increase All Catalog Price"
+              },
+              "url": "/dashboard/catalog/uppriceall"
+            },
+            "down_price_all": {
+              "label": {
+                "id": "Turunkan Semua Harga Katalog",
+                "eng": "Lower All Catalog Price"
+              },
+              "url": "/dashboard/catalog/downpriceall"
+            }
+          }
+        },
+        "varian": {
+          "label": {
+              "id": "Varian",
+              "eng": "Varian"
+          }
+        },
+        "addon": {
+          "label": {
+              "id": "Tambahan",
+              "eng": "Addon"
+          }
+        },
+        "Stock": {
+          "label": {
+              "id": "Stok",
+              "eng": "Stock"
+          }
+        }
+      }
+    },
+    "menu_sales": {
+      "label": {
+        "id": "Penjualan",
+        "eng": "Sales"
+      },
+      "menus": {}
+    },
+    "menu_employee": {
+      "label": {
+        "id": "Pegawai",
+        "eng": "Employee"
+      },
+      "menus": {}
+    },
+    "menu_me": {
+      "label": {
+        "id": "Akun Saya",
+        "eng": "My Account"
+      },
+      "menus": {}
+    },
+    "menu_logout": {
+      "label": {
+        "id": "Akhiri Sesi",
+        "eng": "Logout"
+      }
+  }
+}
