@@ -663,10 +663,13 @@ a, .link, .btn-link {
     z-index: 2 !important;
 }
 
+// sticky-top-lower digunakan pada tiltle-header yang dimana 
+// z-indexnya memiliki nilai yang sama dengan dropdown sehingga 
+// dropdown tetap tertutup oleh .title-header
 .sticky-top-lower {
     position: sticky;
     top: calc(1rem + 31px);
-    z-index: 2 !important;
+    z-index: 1 !important;
 }
 
 .dropdown-menu.show {
